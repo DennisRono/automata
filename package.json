@@ -1,0 +1,23 @@
+{
+  "name": "ice_cream_vending",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "vending.js",
+  "bin": {
+    "nulbit": "vending.js"
+  },
+  "scripts": {
+    "vending": "node vending.js"
+  },
+  "keywords": [],
+  "author": "Dennis Kibet",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "figlet": "^1.5.2",
+    "firequiz": "^0.0.5",
+    "nanospinner": "^1.0.0",
+    "shelljs": "^0.8.5"
+  }
+}
