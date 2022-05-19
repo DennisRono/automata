@@ -1,4 +1,9 @@
 #!/usr/bin/env node
+/*
+    Dennis Kibet
+    Licence: MIT/ISC
+    github:@DennisRono
+*/
 
 import chalk from 'chalk';
 import inquirer from 'inquirer';
