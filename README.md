@@ -9,3 +9,22 @@ a) Formally define this machine as a finite automata. i.e. determine the states,
 b) Draw the state transition diagram for the machine.
 
 c) Using a programming language of your choice, write a program to simulate the operation of this machine.# automata 
+
+
+## Getting started & Usage
+
+Clone the repository
+
+```cmd
+git clone https://github.com/DennisRono/automata.git
+```
+install modules
+
+```cmd
+npm i
+```
+Run the code
+
+```cmd
+npm run vending
+```

@@ -5,7 +5,7 @@
   "type": "module",
   "main": "vending.js",
   "bin": {
-    "nulbit": "vending.js"
+    "vending": "vending.js"
   },
   "scripts": {
     "vending": "node vending.js"
@@ -16,7 +16,8 @@
   "dependencies": {
     "chalk": "^5.0.0",
     "figlet": "^1.5.2",
-    "firequiz": "^0.0.5",
+    "gradient-string": "^2.0.1",
+    "inquirer": "^8.2.4",
     "nanospinner": "^1.0.0",
     "shelljs": "^0.8.5"
   }
